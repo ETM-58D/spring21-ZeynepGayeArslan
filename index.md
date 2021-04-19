@@ -1,5 +1,5 @@
-#Progress Journal
+# Progress Journal
 
-##April 11, 2021
+## April 11, 2021
 
-(files/example_homework0.html) is my 5 interesting examples
+[Here](files/interesting_examples.html) is my 5 interesting examples
