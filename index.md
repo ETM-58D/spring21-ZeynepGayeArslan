@@ -11,3 +11,7 @@
 ## June 6, 2021 
 
 [Here](files/Homework2.html) is Homework 2.
+
+## July 3, 2021
+
+[Here](files/ETM-58D---Homework-3-4.html) is Homework 3&4.
